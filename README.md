@@ -13,4 +13,4 @@ GitHub Stats
 
 <img align="center" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-laham&theme=shades-of-purple" />
 
-<img align="center" width="450" src="https://github-readme-stats.vercel.app/api/?username=ibrahim-laham&theme=shades-of-purple" />
+<!-- <img align="center" width="450" src="https://github-readme-stats.vercel.app/api/?username=ibrahim-laham&theme=shades-of-purple" /> -->
